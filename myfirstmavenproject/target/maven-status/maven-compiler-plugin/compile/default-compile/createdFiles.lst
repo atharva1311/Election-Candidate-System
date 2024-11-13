@@ -1,0 +1,6 @@
+com\tka\client\ElectionClient.class
+com\tka\entity\Candidate.class
+com\tka\dao\ElectionDao.class
+com\tka\utility\ElectionUtility.class
+com\tka\service\ElectionService.class
+com\tka\controller\ElectionController.class
